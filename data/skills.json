@@ -1,0 +1,65 @@
+[
+    {
+        "image": "skills/automation-testing.webp",
+        "title": "Test",
+        "text": "Tests exploratoires, unitaires et d’intégration, conception d’une stratégie de test et rédaction d’un cahier de recette, automatisation de tests E2E et d’API",
+        "alt": "Illustrative image with a chain of boxes",
+        "link": "#projects"
+    },
+    {
+        "image": "skills/optimization.webp",
+        "title": "Optimisation et debug",
+        "text": "Identification des anomalies et correction d’un site existant, optimisation SEO et performance et publication d’un site en ligne",
+        "alt": "Metrics image",
+        "link": "#Port"
+    },
+    {
+        "image": "skills/management.webp",
+        "title": "Gestion de projet",
+        "text": "Analyse des besoins d’un client, définition d’une solution technique répondant aux besoins fonctionnels, planification du projet",
+        "alt": "Illustrative image with boxes",
+        "link": "#MMQ"
+    },
+    {
+        "image": "logos/linear.webp",
+        "title": "Linear",
+        "text": "Gestion de projet, rapport et suivi d'anomalies",
+        "alt": "Linear logo",
+        "link": "#PD"
+    },
+    {
+        "image": "logos/jira.webp",
+        "title": "Jira",
+        "text": "Rapport d'anomalies",
+        "alt": "Jira logo",
+        "link": "#724"
+    },
+    {
+        "image": "logos/notion.webp",
+        "title": "Notion",
+        "text": "Gestion de projet Agile, création d'un tableau Kanban, et rédaction de user stories",
+        "alt": "Notion logo",
+        "link": "#MMQ"
+    },
+    {
+        "image": "logos/phpUnit.webp",
+        "title": "PhpUnit",
+        "text": "Tests unitaires et d'intégration",
+        "alt": "PhpUnit logo",
+        "link": "#PD"
+    },
+    {
+        "image": "logos/panther.webp",
+        "title": "Symfony Panther",
+        "text": "Automatisation de tests E2E",
+        "alt": "Symfony Panther logo",
+        "link": "#PD"
+    },
+    {
+        "image": "logos/cypress.webp",
+        "title": "Cypress",
+        "text": "Automatisation de tests E2E et d'API",
+        "alt": "Cypress logo",
+        "link": "#EBB"
+    }
+]

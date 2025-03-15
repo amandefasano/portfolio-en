@@ -1,0 +1,42 @@
+[
+    {
+        "image": "projects/724.webp",
+        "title": "724events",
+        "text": "724events est un projet de site web d'événementiel\n\n • Exécution de tests manuels\n • Exécution de tests exploratoires\n • Rapport des anomalies avec Jira\n • Mise à jour du cahier de recette",
+        "alt": "724events illustration",
+        "link": "https://github.com/amandefasano/724events.git",
+        "id": "724"
+    },
+    {
+        "image": "projects/eco-soap.webp",
+        "title": "Eco Bliss Bath",
+        "text": "Eco Bliss Bath est un projet de boutique en ligne de produits de beauté\n\n • Automatisation de tests E2E, fonctionnels et d'API avec Cypress\n • Exécution d'une campagne de test de validation\n • Rédaction et présentation du bilan de campagne de test",
+        "alt": "Eco Bliss Bath logo",
+        "link": "https://github.com/amandefasano/eco-bliss-bath.git",
+        "id": "EBB"
+    },
+    {
+        "image": "projects/tomsen.webp",
+        "title": "Tomsen",
+        "text": "Tomsen est un projet d'application de gestion financière pour particuliers\n\n • Revue des exigences\n • Conception de la stratégie de test\n • Conception du cahier de recette",
+        "alt": "Tomsen illustration",
+        "link": "https://github.com/amandefasano/tomsen.git",
+        "id": "Tom"
+    },
+    {
+        "image": "projects/qwenta.webp",
+        "title": "Menu Maker by Qwenta",
+        "text": "Menu Maker by Qwenta est un projet d'application de personnalisation de menu\n\n • Mise en place d'un système de veille\n • Définition des besoins techniques\n • Rédaction de user stories en approche Agile\n • Création d'un tableau Kanban pour organiser les tâches en sprint",
+        "alt": "Qwenta illustration",
+        "link": "https://github.com/amandefasano/menu-maker-by-qwenta.git",
+        "id": "MMQ"
+    },
+    {
+        "image": "projects/portfolio.webp",
+        "title": "Mon portfolio",
+        "text": "Mon portfolio en ligne\n\n • Identification des anomalies et correction d’un site existant\n • Personnalisation du site\n • Optimisation SEO et performance du site\n • Publication du site en ligne",
+        "alt": "Portfolio illustration",
+        "link": "https://github.com/amandefasano/portfolio-amandine-douguedroit.git",
+        "id": "Port"
+    }
+]
