@@ -1,0 +1,238 @@
+/******* GENERAL *******/
+/* spacing on all sections */
+#about,
+#skills,
+#portfolio,
+#experience,
+#contact {
+    padding: 4rem 0;
+}
+
+#about h2,
+#skills h2,
+#portfolio h2,
+#experience h2,
+#contact h2 {
+    margin-bottom: 3rem;
+}
+
+#contact {
+    padding-bottom: 4rem;
+}
+
+/* display background dark color on navbar scroll */
+.navbarScroll.navbarDark {
+    background-color: #583546;
+}
+
+/* background dark color on certain sections */
+#skills,
+#portfolio
+ {
+    background-color: #583546;
+}
+
+/* white title on dark sections */
+#skills h2,
+#portfolio h2
+ {
+    color: white;
+}
+
+/* Navbar */
+#nav-links .nav-link {
+    color: white;
+}
+
+/* hero background image */
+.bgimage {
+    height: 100vh;
+    max-height: 900px;
+    background: url("images/background/pink-computer.webp");
+    background-size: cover;
+    position: relative;
+}
+
+/* text css above hero image*/
+.hero_title {
+    font-size: 4.5rem;
+}
+
+.hero_desc {
+    font-size: 2rem;
+}
+
+.hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+/* about */
+.imageAboutPage {
+    width: 100%;
+}
+
+.imageAboutPage {
+    border-radius: 50%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+
+summary {
+    font-weight: bold;
+    color: #583546;
+}
+
+#about .btn-success {
+    color: white;
+    background-color: #583546;
+    border-color: #583546;
+}
+
+#about .btn-success:hover {
+    color: #583546;
+    background-color: white;
+    border-color: #583546;
+}
+
+#fun-fact {
+    background-color: lightgray;
+    padding: 10px;
+    border-radius: 18px;
+}
+
+/* skills */
+.skillsText.card {
+    height: 350px;
+    cursor: pointer;
+}
+
+.skillsText img {
+    width: 100%;
+    height: 150px;
+    object-fit: contain;
+}
+
+#skills p {
+    text-align: center;
+}
+
+#skills .skills-link {
+    text-decoration: none;
+    color: #212529;
+}
+
+.skillsIcon {
+    font-size: 36px;
+    text-align: center;
+    width: 100%;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card:hover .skillsIcon {
+    color: #cc569b;
+}
+
+.skillsText:hover {
+    border: 2px solid #2e0218cc;
+}
+
+/* experience */
+#experience .row-center {
+    justify-content: center;
+}
+
+#experience .card {
+    height: 908px;
+}
+
+#experience .card-subtitle {
+    font-size: small;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+#experience .card-link-wrapper {
+    margin-top: 60px;
+}
+
+#experience .btn-success {
+    color: #146152;
+    background-color: white;
+    border-color: #25ab90;
+}
+
+#experience .btn-success:hover {
+    color: white;
+    background-color: #25ab90;
+    border-color: #25ab90;
+}
+
+.link {
+    position: absolute;
+    bottom: 1rem;
+    left: 1rem;
+    width: calc(100% - 2rem);
+}
+
+/* portfolio */
+#portfolio .btn-success {
+    background-color: #583546;
+    border-color: #583546;
+}
+
+#portfolio .btn-success:hover {
+    color: #583546;
+    background-color: white;
+    border-color: #583546;
+}
+
+#portfolio .card {
+    height: 31rem;
+}
+
+.card,
+#projects,
+#web-dev,
+#QA {
+    scroll-margin-top: 200px;
+}
+
+/* targetted element */
+.card:target,
+#projects:target,
+#web-dev:target,
+#QA:target {
+    animation: highlight 2.5s linear 1;
+}
+
+@keyframes highlight {
+  0%  { outline: 8px solid #cc569b; }
+  80%  { outline: 8px solid #cc569b; }
+  100% { outline-color: transparent; }
+}
+
+/* contact */
+#contact a {
+    color: #952D6A;
+}
+
+#contact a:hover {
+    color: #fb93bb;
+}
+
+.contactColumn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contactColumn i {
+    color: #583546;
+}
