@@ -79,7 +79,7 @@ function createPortfolioFromJSON() {
                         <h3 class="card-title">${item.title}</h3>
                         <p class="card-text">${html}</p>
                         <div class="div-project-link text-center">
-                            <a href="${item.link}" class="link btn btn-success" target="_blank">Découvrez le projet</a>
+                            <a href="${item.link}" class="link btn btn-success" target="_blank">Discover the project</a>
                         </div>
                     </div>
                 </div>
@@ -115,7 +115,7 @@ function createExperienceFromJSON() {
                         <h4 class="card-subtitle">${item.subtitle}</h4>
                         <p class="card-text">${html}</p>
                         <div class="text-center card-link-wrapper">
-                            <a href="${item.link}" class="link btn btn-success" target="_blank">Découvrez l'entreprise</a>
+                            <a href="${item.link}" class="link btn btn-success" target="_blank">Discover the company</a>
                         </div>
                     </div>
                 </div>
