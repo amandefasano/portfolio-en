@@ -2,7 +2,7 @@
     {
         "image": "projects/724.webp",
         "title": "724events",
-        "text": "724events est un projet de site web d'événementiel\n\n • Exécution de tests manuels\n • Exécution de tests exploratoires\n • Rapport des anomalies avec Jira\n • Mise à jour du cahier de recette",
+        "text": "724events is an event management website project\n\n • Executed manual tests\n • Executed exploratory tests\n • Reported anomalies using Jira\n • Updated Test Specification Document",
         "alt": "724events illustration",
         "link": "https://github.com/amandefasano/724events.git",
         "id": "724"
@@ -10,7 +10,7 @@
     {
         "image": "projects/eco-soap.webp",
         "title": "Eco Bliss Bath",
-        "text": "Eco Bliss Bath est un projet de boutique en ligne de produits de beauté\n\n • Automatisation de tests E2E, fonctionnels et d'API avec Cypress\n • Exécution d'une campagne de test de validation\n • Rédaction et présentation du bilan de campagne de test",
+        "text": "Eco Bliss Bath is an e-commerce project for beauty products\n\n • Automated functional and API end-to-end (E2E) tests using Cypress\n • Executed a validation campaign\n • Wrote and presented the validation campaign report",
         "alt": "Eco Bliss Bath logo",
         "link": "https://github.com/amandefasano/eco-bliss-bath.git",
         "id": "EBB"
@@ -18,7 +18,7 @@
     {
         "image": "projects/tomsen.webp",
         "title": "Tomsen",
-        "text": "Tomsen est un projet d'application de gestion financière pour particuliers\n\n • Revue des exigences\n • Conception de la stratégie de test\n • Conception du cahier de recette",
+        "text": "Tomsen is a financial management app project for individuals\n\n • Reviewed requirements\n • Designed the test strategy\n • Designed the Test Specification Document",
         "alt": "Tomsen illustration",
         "link": "https://github.com/amandefasano/tomsen.git",
         "id": "Tom"
@@ -26,15 +26,15 @@
     {
         "image": "projects/qwenta.webp",
         "title": "Menu Maker by Qwenta",
-        "text": "Menu Maker by Qwenta est un projet d'application de personnalisation de menu\n\n • Mise en place d'un système de veille\n • Définition des besoins techniques\n • Rédaction de user stories en approche Agile\n • Création d'un tableau Kanban pour organiser les tâches en sprint",
+        "text": "Menu Maker by Qwenta is a menu customization app project\n\n • Built a web technology watch system\n • Defined the project's technical needs\n • Wrote user stories using Agile methodology\n • Created a Kanban board and organized tasks in sprints",
         "alt": "Qwenta illustration",
         "link": "https://github.com/amandefasano/menu-maker-by-qwenta.git",
         "id": "MMQ"
     },
     {
         "image": "projects/portfolio.webp",
-        "title": "Mon portfolio",
-        "text": "Mon portfolio en ligne\n\n • Identification des anomalies et correction d’un site existant\n • Personnalisation du site\n • Optimisation SEO et performance du site\n • Publication du site en ligne",
+        "title": "My portfolio",
+        "text": "My online portfolio\n\n • Identified and fixed anomalies on an existing website\n • Customized the website\n • Optimized the SEO and performance of the website\n • Published the website online",
         "alt": "Portfolio illustration",
         "link": "https://github.com/amandefasano/portfolio-amandine-douguedroit.git",
         "id": "Port"

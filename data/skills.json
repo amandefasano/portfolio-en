@@ -2,63 +2,63 @@
     {
         "image": "skills/automation-testing.webp",
         "title": "Test",
-        "text": "Tests exploratoires, unitaires et d’intégration, conception d’une stratégie de test et rédaction d’un cahier de recette, automatisation de tests E2E et d’API",
+        "text": "Exploratory, unit, and integration testing, designing a test strategy, writing a test specification document, automating E2E and API tests",
         "alt": "Illustrative image with a chain of boxes",
         "link": "#projects"
     },
     {
         "image": "skills/optimization.webp",
-        "title": "Optimisation et debug",
-        "text": "Identification des anomalies et correction d’un site existant, optimisation SEO et performance et publication d’un site en ligne",
+        "title": "Optimisation and debug",
+        "text": "Identification and fixing of anomalies on an existing website, SEO and performance optimization, and online publication of a website",
         "alt": "Metrics image",
         "link": "#Port"
     },
     {
         "image": "skills/management.webp",
-        "title": "Gestion de projet",
-        "text": "Analyse des besoins d’un client, définition d’une solution technique répondant aux besoins fonctionnels, planification du projet",
+        "title": "Project management",
+        "text": "Analysis of client needs, definition of a technical solution addressing functional requirements, and project planning",
         "alt": "Illustrative image with boxes",
         "link": "#MMQ"
     },
     {
         "image": "logos/linear.webp",
         "title": "Linear",
-        "text": "Gestion de projet, rapport et suivi d'anomalies",
+        "text": "Project management, reporting, and tracking of anomalies",
         "alt": "Linear logo",
         "link": "#PD"
     },
     {
         "image": "logos/jira.webp",
         "title": "Jira",
-        "text": "Rapport d'anomalies",
+        "text": "Anomaly reporting",
         "alt": "Jira logo",
         "link": "#724"
     },
     {
         "image": "logos/notion.webp",
         "title": "Notion",
-        "text": "Gestion de projet Agile, création d'un tableau Kanban, et rédaction de user stories",
+        "text": "Agile project management, creation of a Kanban board, and writing of user stories",
         "alt": "Notion logo",
         "link": "#MMQ"
     },
     {
         "image": "logos/phpUnit.webp",
         "title": "PhpUnit",
-        "text": "Tests unitaires et d'intégration",
+        "text": "Unit and integration testing",
         "alt": "PhpUnit logo",
         "link": "#PD"
     },
     {
         "image": "logos/panther.webp",
         "title": "Symfony Panther",
-        "text": "Automatisation de tests E2E",
+        "text": "E2E test automation",
         "alt": "Symfony Panther logo",
         "link": "#PD"
     },
     {
         "image": "logos/cypress.webp",
         "title": "Cypress",
-        "text": "Automatisation de tests E2E et d'API",
+        "text": "E2E and API test automation",
         "alt": "Cypress logo",
         "link": "#EBB"
     }

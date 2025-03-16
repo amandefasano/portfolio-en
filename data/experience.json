@@ -1,18 +1,18 @@
 [
     {
         "image": "logos/itso.webp",
-        "title": "Stagiaire Développeuse web à ITSO Technologies",
-        "subtitle": "Du 1er avril 2021 au 21 mai 2021, à Avignon",
-        "text": "ITSO technologies était une agence de développement logiciel qui a fusionné avec la société Insersio en 2023\n\n • Mise en place de tests d'API automatisés avec SpringBoot et JUnit5.\n • Recréation d'interfaces utilisateur avec React.\n • Recréation d'une fonctionnalité de gestion d'utilisateurs avec SpringBoot.\n",
+        "title": "Web developer Intern at ITSO Technologies",
+        "subtitle": "From April 1st, 2021, to May 21st, 2021, in Avignon",
+        "text": "ITSO Technologies was a software development agency that merged with Insersio in 2023\n\n • Implemented automated API tests using SpringBoot and JUnit5.\n • Recreated user interfaces with React.\n • Redeveloped a user management feature using SpringBoot.\n",
         "alt": "ITSO logo",
         "link": "https://www.inersio.com/",
         "id": "ITSO"
     },
     {
         "image": "logos/prettyData.webp",
-        "title": "Stagiaire Assurance Qualité à PrettyData",
-        "subtitle": "Du 14 octobre 2024 au 28 février 2025, en distanciel",
-        "text": "PrettyData est une start-up qui développe une application de gestion de revenus pour des salons de coiffure/beauté\n\n • Amélioration des processus d'assurance qualité avec l'implémentation d'un accord de niveau de service (SLA).\n • Conception d'un cahier de recette.\n • Automatisation des tests sur les fonctionnalités critiques.\n • Exécution de tests exploratoires sur l'environnement de staging et/ou sur l'environnement de prod après déploiement, à la fréquence déterminée dans le SLA.\n • Rapport et suivi des anomalies.\n • Validation des corrections de bugs.\n • Présentation hebdomadaire de rapports sur la progression de la résolution des bugs ainsi que sur d'autres métriques pertinentes à l'équipe.\n • Aide aux efforts de développement de l'application, en développant des scrapers pour récupérer les données de salons sur différents systèmes de réservation.\n",
+        "title": "QA Intern at PrettyData",
+        "subtitle": "From October 14th, 2024, to February 28th, 2025, remote",
+        "text": "PrettyData is a startup that develops a revenue management application for beauty and hair salons\n\n • Improved quality assurance processes by implementing a Service Level Agreement (SLA).\n • Designed a Test Specification Document.\n • Automated tests for critical features.\n • Executed exploratory tests on the staging and/or production environments post-deployment, at the frequency specified in the SLA.\n • Reported and tracked anomalies.\n • Validated bug fixes.\n • Presented weekly reports on bug resolution progress and other relevant metrics to the team.\n • Assisted in development efforts by helping build scrapers to retrieve salon data from various booking systems.\n",
         "alt": "PrettyData logo",
         "link": "https://www.prettydata.co/",
         "id": "PD"
