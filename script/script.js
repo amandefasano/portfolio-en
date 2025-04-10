@@ -57,7 +57,7 @@ function createSkillsFromJSON() {
 
 // Function to dynamically create HTML elements from the JSON file
 function createPortfolioFromJSON() {
-  const container = document.querySelector("#portfolio .container");
+  const container = document.querySelector("#projects-section .container");
   let row = document.createElement("div");
   row.classList.add("row");
   row.setAttribute("id", "projects");

@@ -2,7 +2,7 @@
 /* spacing on all sections */
 #about,
 #skills,
-#portfolio,
+#projects-section,
 #experience,
 #contact {
     padding: 4rem 0;
@@ -10,7 +10,7 @@
 
 #about h2,
 #skills h2,
-#portfolio h2,
+#projects-section h2,
 #experience h2,
 #contact h2 {
     margin-bottom: 3rem;
@@ -27,14 +27,14 @@
 
 /* background dark color on certain sections */
 #skills,
-#portfolio
+#projects-section
  {
     background-color: #583546;
 }
 
 /* white title on dark sections */
 #skills h2,
-#portfolio h2
+#projects-section h2
  {
     color: white;
 }
@@ -181,19 +181,19 @@ summary {
     width: calc(100% - 2rem);
 }
 
-/* portfolio */
-#portfolio .btn-success {
+/* projects section */
+#projects-section .btn-success {
     background-color: #583546;
     border-color: #583546;
 }
 
-#portfolio .btn-success:hover {
+#projects-section .btn-success:hover {
     color: #583546;
     background-color: white;
     border-color: #583546;
 }
 
-#portfolio .card {
+#projects-section .card {
     height: 31rem;
 }
 
